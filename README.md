@@ -1,20 +1,58 @@
-<h1 align="center">Olá 👋, Eu sou André Nogueira</h1>
+<h1 align="center">Olá <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, Eu sou André Nogueira</h1>
+
+
+
+
 <h3 align="center">Apaixonado por desafios, e resolver problema de forma "algoritmicamente"</h3>
 
-- Atualmente Trabalhando na Micks [Supervisor de Desenvolviemnto](https://micks.com.br/)
+- Atualmente trabalhando na Micks Brasil [Supervisor de Desenvolviemnto](https://micks.com.br/)
 
 - Atualmente estou aprendendo **Ruby,React-DOM,React-Native**
 
-- 💬 Me pergunte sobre **JavaScript,Python,bashScript,HTML,CSS,Mysql**
+- 💬 Me pergunte sobre **JavaScript,Python,bashScript,HTML,CSS,Mysql,Bash, Linux**
 
 - 📫 Você me acha através do e-mail **andrepereiragbi@gmail.com**
 
 
-<p align="left">
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)
+![bashScript](https://img.shields.io/badge/-bashScript-000?&logo=bashScript)
+
+### Databases
+
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+
+### Technologies
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![GCP](https://img.shields.io/badge/-google-000?&logo=Google)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Windows](https://img.shields.io/badge/-Windows%20server-000?&logo=Windows)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
+
+### Tools
+
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+![Insomnia](https://img.shields.io/badge/-Insomnia-000?&logo=Insomnia)
+![Zabbix](https://img.shields.io/badge/-Zabbix-000?&logo=Zabbix)
+![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
+
+### Network 
+![Cisco](https://img.shields.io/badge/-Cisco-000?&logo=Cisco)
+![Huawei](https://img.shields.io/badge/-Huawei-000?&logo=Huawei)
+![Ubiquiti](https://img.shields.io/badge/-Ubiquiti-000?&logo=Ubiquiti)
+![Mikrotik](https://img.shields.io/badge/-Mikrotik-000?&logo=Mikrotik)
 
 
 
