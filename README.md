@@ -1,4 +1,4 @@
-<h1 align="center">Olá <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, Eu sou André Nogueira</h1>
+<h1 align="center">Olá <a href="https://github.com/andrenogueiragbi"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, Eu sou André Nogueira</h1>
 
 
 
