@@ -62,4 +62,5 @@ Carrego comigo um valiosíssimo acervo de conhecimento que é indispensável qua
 | <a href="https://github.com/andrenogueiragbi/andrenogueiragbi"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andrenogueiragbi&theme=dark&show_icons=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/andrenogueiragbi/andrenogueiragbi"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrenogueiragbi&layout=compact&theme=dark&show_icons=true" /></a> |
 | ------------- | ------------- |
 
+![snake gif](https://github.com/andrenogueiragbi/andrenogueiragbi/blob/output/github-contribution-grid-snake.gif)
 
