@@ -3,7 +3,7 @@
 
 
 
-<h3 align="center">Apaixonado por desafios, e resolver problema de forma "algoritmicamente", Sempre fui muito focado nos meus objetivos e não desisto facilmente dos meus planos, me vejo como uma pessoa determinada e destemida.
+<h3 align="center">Apaixonado por desafios, e resolver problema de forma "algoritmicamente". Sempre fui muito focado nos meus objetivos e não desisto facilmente dos meus planos, me vejo como uma pessoa determinada e destemida.
 
 Carrego comigo um valiosíssimo acervo de conhecimento que é indispensável quando se pensa em inovação e tecnologia.</h3>
 
