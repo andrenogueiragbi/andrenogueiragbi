@@ -15,7 +15,7 @@ Carrego comigo um valiosíssimo acervo de conhecimento que é indispensável qua
 
 - 📫 Você me acha através do e-mail **andrepereiragbi@gmail.com**
 
-
+---
 
 ### Languages
 
@@ -25,12 +25,16 @@ Carrego comigo um valiosíssimo acervo de conhecimento que é indispensável qua
 ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)
 ![bashScript](https://img.shields.io/badge/-bashScript-000?&logo=bashScript)
 
+---
+
 ### Databases
 
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+
+---
 
 ### Technologies
 
@@ -43,6 +47,8 @@ Carrego comigo um valiosíssimo acervo de conhecimento que é indispensável qua
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
 
+---
+
 ### Tools
 
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
@@ -50,18 +56,20 @@ Carrego comigo um valiosíssimo acervo de conhecimento que é indispensável qua
 ![Zabbix](https://img.shields.io/badge/-Zabbix-000?&logo=Zabbix)
 ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
 
+---
+
 ### Network 
 ![Cisco](https://img.shields.io/badge/-Cisco-000?&logo=Cisco)
 ![Huawei](https://img.shields.io/badge/-Huawei-000?&logo=Huawei)
 ![Ubiquiti](https://img.shields.io/badge/-Ubiquiti-000?&logo=Ubiquiti)
 ![Mikrotik](https://img.shields.io/badge/-Mikrotik-000?&logo=Mikrotik)
 
+---
 
 
+<a href="https://github.com/andrenogueiragbi/andrenogueiragbi"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andrenogueiragbi&theme=dark&show_icons=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/andrenogueiragbi/andrenogueiragbi"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrenogueiragbi&layout=compact&theme=dark&show_icons=true" /></a> 
 
-| <a href="https://github.com/andrenogueiragbi/andrenogueiragbi"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andrenogueiragbi&theme=dark&show_icons=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/andrenogueiragbi/andrenogueiragbi"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrenogueiragbi&layout=compact&theme=dark&show_icons=true" /></a> |
-| ------------- | ------------- |
-
+---
 ### Contato
 
 <div>
