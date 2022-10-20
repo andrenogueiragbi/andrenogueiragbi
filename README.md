@@ -5,7 +5,7 @@
 
 <h3 align="center">Apaixonado por desafios, e resolver problema de forma "algoritmicamente"</h3>
 
-- Atualmente trabalhando na Micks Brasil [Supervisor de Desenvolviemnto](https://micks.com.br/)
+- Atualmente trabalhando na Micks Brasil [Supervisor de Desenvolvimento](https://micks.com.br/)
 
 - Atualmente estou aprendendo **Ruby,React-DOM,React-Native**
 
